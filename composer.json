@@ -1,5 +1,5 @@
 {
-  "name": "natilosir/session-php",
+  "name": "natilosir/session",
   "description": "A simple library for creating and managing sessions in PHP",
   "type": "library",
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "natilosir\\session-php\\": "src/"
+      "natilosir\\session\\": "src/"
     }
   },
   "require": {}
