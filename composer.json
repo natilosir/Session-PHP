@@ -1,0 +1,18 @@
+{
+  "name": "natilosir/session-php",
+  "description": "A simple library for creating and managing sessions in PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Natilos.ir",
+      "email": "info@natilos.ir"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "natilosir\\session-php\\": "src/"
+    }
+  },
+  "require": {}
+}
